@@ -1,4 +1,0 @@
-while true; do
-./C startS
-sleep 7
-done
